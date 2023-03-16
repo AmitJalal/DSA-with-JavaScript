@@ -1,0 +1,10 @@
+
+#1 line 2
+let n = parseInt(readLine());
+let user provides 5
+--> readline()= "5"
+--> parseInt(readline())=parseInt("5")
+-->5
+1__ final input = 5 --> n = 5
+
+#2 line 4
